@@ -3,3 +3,4 @@ xiaoyaliu/alist:hostmode
 ddsderek/xiaoya-emd:beta
 xiaoyaliu/glue:python
 ddsderek/xiaoya-proxy
+xiaoyaliu/alist:latest
