@@ -1,6 +1,7 @@
 pixman/pixman
 xiaoyaliu/alist:hostmode
 ddsderek/xiaoya-emd:beta
+ddsderek/xiaoya-emd:latest
 xiaoyaliu/glue:python
 ddsderek/xiaoya-proxy
 xiaoyaliu/alist:latest
