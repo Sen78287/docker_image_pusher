@@ -1,5 +1,5 @@
 pixman/pixman
-xiaoyaliu/alist:hostmode
+xiaoyaliu/alist:latest
 ddsderek/xiaoya-emd:beta
 ddsderek/xiaoya-emd:latest
 xiaoyaliu/glue:python
