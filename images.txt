@@ -6,3 +6,4 @@ xiaoyaliu/glue:python
 ddsderek/xiaoya-proxy
 xiaoyaliu/alist:latest
 ddsderek/xiaoya-115cleaner:latest 
+enwaiax/x-ui:latest
