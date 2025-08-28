@@ -1,9 +1,1 @@
-pixman/pixman
-xiaoyaliu/alist:latest
-ddsderek/xiaoya-emd:beta
-ddsderek/xiaoya-emd:latest
-xiaoyaliu/glue:python
-ddsderek/xiaoya-proxy
-xiaoyaliu/alist:latest
-ddsderek/xiaoya-115cleaner:latest 
-enwaiax/x-ui:latest
+codming/janus:latest
