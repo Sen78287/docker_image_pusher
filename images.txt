@@ -1,1 +1,1 @@
-codming/janus:latest
+bigbugcc/3x-ui:latest
