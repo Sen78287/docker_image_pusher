@@ -1,1 +1,1 @@
-bigbugcc/3x-ui:latest
+ ghcr.io/xeefei/3x-ui:latest
